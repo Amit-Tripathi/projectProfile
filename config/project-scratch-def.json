@@ -1,0 +1,8 @@
+{
+  "orgName": "Acme",
+  "edition": "Enterprise",
+  "features": ["API", "AuthorApex"],
+  "settings": {
+    
+  }
+}
